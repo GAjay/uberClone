@@ -1,4 +1,4 @@
-package com.simcoder.uber;
+package com.clone.uber;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

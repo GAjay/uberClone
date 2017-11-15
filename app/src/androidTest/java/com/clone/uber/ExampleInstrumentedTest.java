@@ -1,4 +1,4 @@
-package com.simcoder.uber;
+package com.clone.uber;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
