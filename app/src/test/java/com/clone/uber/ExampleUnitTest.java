@@ -1,4 +1,4 @@
-package com.simcoder.uber;
+package com.clone.uber;
 
 import org.junit.Test;
 
